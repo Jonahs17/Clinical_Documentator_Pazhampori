@@ -36,6 +36,6 @@ Distributed under the Apache License, Version 2.0. See `LICENSE.txt` for more in
 
 ## Members
 * A. Manek Krishna
-* Anumodh Mullassery
+* Anumodh M
 * Gokul Bejoy
 * Jonahs George
