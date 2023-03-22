@@ -1,7 +1,41 @@
-# Clinical_Documentator_Pazhampori
-## Clinical Documentation Maker with help of AI
+<h1 align="center">//Clinical Documentator//</h1>
+<p align="center">Clinical documentation maker with help of AI</p>
 
-This program uses OpenAI as its backend to produce the Documentation notes in a prescribed and formal format. The program is based on Speech-To-Text which is done using Google's SpeechRecognition. This converts the recorded audio file into text, which is feeded to the ChatGPT which inturn produces the output in a formal documentation format. The response is then made into a PDF format using fpdf module which is used for document generation. This ultimately produces a final output in PDF format, which even a person with very basic computer knowledge can interact easily.<br><br>
-Made for Parippuvada Hackathon by GDSC CET.
-### Reason for the topic:
-As healthcare is a very sensitive topic, AI at its current capabilities cannot be trusted to make important decisions like medicine prescription, diagnosis of disease, etc. as each and every decision should be minutely taken care of. This leaves us with how we can improve the lifestyle and overall effectiveness of medical professionals. Clinical Documentation is a sort of data entry process which takes up a lot of time of the professionals and AI can be really beneficial in this not-so-sensitive topic by reducing the workload of individuals. Our program is designed in a manner where the only requirement is that the professional recites the patient's details to the microphone which captures the audio and the output is a printable pdf file.
+## About the Project
+Generates clinical documentaion for a patient in PDF format from speech with the help of Google's SpeechRecognition, ChatGPT and fpdf module. Made for Parippuvada Hackathon conducted by GDSC CET.
+
+## Getting Started
+You have to generate an API key to use the ChatGPT API. Please generate it on your account page and set it on the Project Settings page (Edit > Project Settings > AI Command > API Key).
+
+### Prerequisites
+* Jupyter <br>
+    https://jupyter.org/install
+* Gradio module
+    ```sh
+    pip install gradio
+    ```
+* OpenAI module
+    ```sh
+    pip install openai
+    ```
+* pyChatGPT
+    ```sh
+    pip install pyChatGPT
+    ```
+* fpdf
+    ```sh
+    pip install fpdf
+    ```
+* SpeechRecognition
+    ```sh
+    pip install SpeechRecognition
+    ```
+
+## License
+Distributed under the Apache License, Version 2.0. See `LICENSE.txt` for more information.
+
+## Members
+* A. Manek Krishna
+* Anumodh M
+* Gokul Bejoy
+* Jonahs George
