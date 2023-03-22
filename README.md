@@ -5,7 +5,7 @@
 Generates clinical documentaion for a patient in PDF format from speech with the help of Google's SpeechRecognition, ChatGPT and fpdf module. Made for Parippuvada Hackathon conducted by GDSC CET.
 
 ## Getting Started
-You have to generate an API key to use the ChatGPT API. Please generate it on your account page and set it on the Project Settings page (Edit > Project Settings > AI Command > API Key).b
+You have to generate an API key to use the ChatGPT API. Please generate it on your account page and set it on the Project Settings page (Edit > Project Settings > AI Command > API Key).
 
 ### Prerequisites
 * Jupyter <br>
