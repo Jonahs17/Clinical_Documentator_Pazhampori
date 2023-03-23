@@ -33,6 +33,9 @@ You have to generate an API key to use the ChatGPT API. Please generate it on yo
     ```sh
     pip install SpeechRecognition
     ```
+## Demo
+https://user-images.githubusercontent.com/121660982/227190342-b3376d26-03e9-4ceb-b001-b30f7ddff438.mp4
+
 
 ## License
 Distributed under the Apache License, Version 2.0. See `LICENSE.txt` for more information.
