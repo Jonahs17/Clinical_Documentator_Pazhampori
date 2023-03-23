@@ -1,6 +1,8 @@
 <h1 align="center">//Clinical Documentator//</h1>
 <p align="center">Clinical documentation maker with help of AI</p>
 
+Project Status : Completed
+
 ## About the Project
 Generates clinical documentaion for a patient in PDF format from speech with the help of Google's SpeechRecognition, ChatGPT and fpdf module. Made for Parippuvada Hackathon conducted by GDSC CET. We created this project with the help of Google Colabs
 
